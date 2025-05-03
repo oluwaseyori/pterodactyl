@@ -1,9 +1,9 @@
 # [+] =============================================== [+]
 # [+]                                                 [+]
-# [+] - INSTALLER PTERODACTYL                         [+]
+# [+] - PTERODACTYL INSTALLER                        [+]
 # [+]                                                 [+]
 # [+]  CREDITS :                                      [+]
-# [+] • Seyori (seyori-eth-h4xer)                   [+]
+# [+] • Seyori (oluwaseyori)                   [+]
 # [+] • Creator of Telegram & WhatsApp Bot          [+]
 # [+] • For Users of Tele & WhatsApp Bots           [+]
 # [+]                                                 [+]
@@ -32,7 +32,7 @@ display_welcome() {
   echo -e "This script was created to simplify the installation of Pterodactyl."
   echo -e "Strictly prohibited to sell or distribute for commercial use."
   echo -e ""
-  echo -e "DON'T FORGET TO SUBSCRIBE @SEYORI-ETH-H4XER"
+  echo -e "DON'T FORGET TO SUBSCRIBE @OLUWASEYORI"
   echo -e ""
   echo -e "CREDITS TO :"
   echo -e "ALL CREATORS OF WHATSAPP BOTS"
