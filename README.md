@@ -10,6 +10,8 @@ bash <(curl -s https://raw.githubusercontent.com/oluwaseyori/pterodactyl/main/in
 
 ## Check All Features Yourself
 
+## **Deployed project - t.me/seyori_ptero_bot**
+
 ### Supported systems
 
 | Operating System | Version | Supported          |
