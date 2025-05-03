@@ -5,7 +5,7 @@
 Use the script below to install the panel, node, or hack back into the panel with just one copy-paste command.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/seyori-eth-h4xer/pterodactyl/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/oluwaseyori/pterodactyl/main/install.sh)
 ```
 
 ## Check All Features Yourself
@@ -22,7 +22,5 @@ bash <(curl -s https://raw.githubusercontent.com/seyori-eth-h4xer/pterodactyl/ma
 
 _\* The operating systems listed above are the ones I tested. Feel free to test others._
 
-## Contributors ✨
-
-Copyright (C) 2024
-- BY [ SEYORI ](https://github.com/seyori-eth-h4xer)
+**Copyright (C) 2024**
+- BY [ SEYORI ](https://github.com/oluwaseyori)
