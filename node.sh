@@ -3,7 +3,7 @@
 # [+] - PTERODACTYL INSTALLER                         [+]
 # [+]                                                 [+]
 # [+]  CREDITS :                                      [+]
-# [+] • Seyori (Myself, seyori-eth-h4xer)             [+]
+# [+] • Seyori (Myself, oluwaseyori)             [+]
 # [+] • Creator of WhatsApp & Telegram Bots           [+]
 # [+] • For Users of Tele & WhatsApp Bots             [+]
 # [+]                                                 [+]
